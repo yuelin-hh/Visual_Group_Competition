@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\My Document\GitHub\Visual_Group_Competition\魔法数据集の终末标定\scene_manager.h(57,4): warning C4065: switch 语句包含“default”但是未包含“case”标签
+  (编译源文件“main.cpp”)
+  
+    正在创建库 D:\My Document\GitHub\Visual_Group_Competition\魔法数据集の终末标定\x64\Release\魔法数据集の终末标定.lib 和对象 D:\My Document\GitHub\Visual_Group_Competition\魔法数据集の终末标定\x64\Release\魔法数据集の终末标定.exp
+LINK : warning LNK4232: 名称 魔法数据集の终末标定.exe 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  正在生成代码
+  3 of 130 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  魔法数据集の终末标定.vcxproj -> D:\My Document\GitHub\Visual_Group_Competition\魔法数据集の终末标定\x64\Release\魔法数据集の终末标定.exe
